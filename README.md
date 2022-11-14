@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @JohnnyMa
-- 👀 I’m interested in software development, focusing on web frontend(Angular/React/Vue), and also have experiance for the backend service development(PHP/Java).
+- 👀 I’m interested in software development, focusing on web frontend(Angular/React/Vue), and also have experiance for the backend development(PHP/Java).
 - 🌱 I’m currently learning Rust
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
